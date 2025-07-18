@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 ![alt text](portfolio_2.png)
 
 # Violet's Portfolio
@@ -86,4 +84,4 @@ PORTFOLIO_2/
 - `aos`: ^2.3.4
 - `@splinetool/react-spline`: ^2.2.6
 - `boxicons`: ^2.1.4
->>>>>>> fdd6445 (portfolio)
+
